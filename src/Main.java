@@ -4,7 +4,15 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+/**
+ *  The main class of the program
+ */
 public class Main {
+
+    /**
+     *  The entry point of the program
+     *  @param args The arguments of the program
+     */
     public static void main(String[] args) {
 
         List<String> abc = Arrays.asList("a", "b", "c");
